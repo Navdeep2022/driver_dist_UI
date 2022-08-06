@@ -1,4 +1,4 @@
-1. Use `pip install requirements.txt` so that all the dependencies have correct version.
+1. Use `pip install requirements.txt`ch
 2.
 3. run ui.py 
 
